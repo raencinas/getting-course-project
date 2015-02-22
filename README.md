@@ -15,6 +15,6 @@ The data for the project was downloaded from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 This repository contains:
-1. CodeBook.md: describes the variables, the data, and any transformations or work that you performed to clean up the data.
-2. run_analysis.R: R script to transform raw data in a tidy data set.
+* CodeBook.md: describes the variables, the data, and any transformations or work that you performed to clean up the data.
+* run_analysis.R: R script to transform raw data in a tidy data set.
 
